@@ -10,5 +10,5 @@ This source code was developed in Linux, and has been tested in Ubuntu 16.04 wit
 2. Create and activate virtual environment
 
         conda env create -f environment.yml
-        conda activaate biosteam
+        conda activate biosteam
             
