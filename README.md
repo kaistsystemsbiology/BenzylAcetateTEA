@@ -11,4 +11,5 @@ This source code was developed in Linux, and has been tested in Ubuntu 16.04 wit
 
         conda env create -f environment.yml
         conda activate biosteam
+        python -m ipykernel install --user --name biosteam --display-name "biosteam"
             
