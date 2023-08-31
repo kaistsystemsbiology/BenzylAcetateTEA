@@ -152,4 +152,3 @@ dependencies:
       - thermosteam==0.31.0
       - tzdata==2023.3
       - xlrd==2.0.1
-prefix: /data/user_home/krchoi/anaconda3/envs/biosteam
